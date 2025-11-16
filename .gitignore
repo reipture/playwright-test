@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+playwright-report/
+test-results/
+auth/credentials.ts
+.env
+.env.*
+*.log
+.DS_Store
+.idea/
+.vscode/
+dist/
+coverage/
+*.tsbuildinfo
+.factory/
